@@ -17,11 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Dashboard page/Card1_action_btn'), 0)
-
-Mobile.tap(findTestObject('Dashboard page/Delete_btn'), 0)
-
-Mobile.verifyElementVisible(findTestObject('Dashboard page/DeleteTask_popup_txt'), 0)
-
-Mobile.tap(findTestObject('Dashboard page/Delete_confirmpopup'), 0)
+Mobile.tap(findTestObject('Object Repository/Onboard section/android.widget.RelativeLayout'), 0)
 

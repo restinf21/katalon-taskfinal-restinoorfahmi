@@ -24,6 +24,8 @@ for (int i = 1; i <= data.getRowNumbers(); i++) {
 
     String desc = data.getValue('Description', i)
 
+    Mobile.checkElement(findTestObject(null), 0)
+
     String setDate = data.getValue('SetDate', i)
 
     String setTime = data.getValue('SetTime', i)

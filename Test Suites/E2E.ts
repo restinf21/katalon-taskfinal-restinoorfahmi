@@ -19,6 +19,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>a64ce7ab-63e1-4ea0-b085-2c6f9133505b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_00_Onboard</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>1681243a-446b-47df-a970-2d95e5555de9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -49,5 +56,19 @@
          <value></value>
          <variableId>a78b91e7-e434-40ff-8d68-2ecdba8a258f</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b8ddef82-6863-47a1-8bb1-c5c4c3b853a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_03_DeleteTask</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4340ab9e-b7f7-46d0-9100-ce642e19e148</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_00_CloseAPK</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
